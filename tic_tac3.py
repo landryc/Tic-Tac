@@ -1,8 +1,8 @@
 #################################
-#								#
-#  AUTHOR 	: NOULAWE LANDRY	#
-#  LICENSE 	: LGPL				#
-#								#
+#				#
+#  AUTHOR 	: NOULAWE LANDRY#
+#  LICENSE 	: LGPL		#
+#				#
 #################################
 
 # hu
