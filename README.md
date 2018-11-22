@@ -9,7 +9,7 @@ Ce qu'il faut faire en vrac:
 <ul>
   <li> Le jeu doit pouvoir se jouer human-human, human-machine, machine-machine</li>
   <li> concevoir une IA pour jouer selon minmax</li>
-  <li> Gerer des niveaus de difficultés</li>
+  <li> Gerer des niveaux de difficultés</li>
   <li> faire une version graphique et reseau</li>
   <li> gerer un BD des joueurs</li>
 </ul>
