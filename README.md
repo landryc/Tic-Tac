@@ -7,11 +7,11 @@ Le jeu se termine lorsque un des joueurs a reussi à aligner 3 de ses pions que 
 
 Ce qu'il faut faire en vrac:
 <ul>
-  <li>. Le jeu doit pouvoir se jouer human-human, human-machine, machine-machine</li>
-  <li>. concevoir une IA pour jouer selon minmax</li>
-  <li>. Gerer des niveaus de difficultés</li>
-  <li>. faire une version graphique et reseau</li>
-  <li>. gerer un BD des joueurs</li>
+  <li> Le jeu doit pouvoir se jouer human-human, human-machine, machine-machine</li>
+  <li> concevoir une IA pour jouer selon minmax</li>
+  <li> Gerer des niveaus de difficultés</li>
+  <li> faire une version graphique et reseau</li>
+  <li> gerer un BD des joueurs</li>
 </ul>
 Pour ce faire, nous avons choisi d'implementer d'abord un tic tac 3x3 comme brique de base du tic tac 9x9.
   En particulier pour ce qui est de L'IA, nous alons ecrire un algorithme selon minimax qui sera chargé de jouer le coup le meilleur en fonction de l'evalution de l'etat de la partie courante.    
